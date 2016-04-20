@@ -183,7 +183,8 @@ img {
 
 .site-info {
   float: right;
-
+  margin-top: 25px;
+  
   @include mobile {
     float: none;
     display: block;
