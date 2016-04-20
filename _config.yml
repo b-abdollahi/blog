@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: تست
+name: قایق کاغذی
 
 # Short bio or description (displayed in the header)
-description: این یک متن فارسی است
+description:  خط نخورده های یک بهزاد
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://blog.behzad.abdollahi.me/images/behzad_avatar.jpg
@@ -18,11 +18,11 @@ avatar: http://blog.behzad.abdollahi.me/images/behzad_avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: b.abdollahi@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: 
+  instagram: https://www.instagram.com/behzaaaaaaad/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
